@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:20:07:56 -0300] "GET /intro-spring HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:20:07:56 -0300] "GET /intro-spring/ HTTP/1.1" 200 208 http-bio-9090-exec-3 44
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:20:07:56 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:21:07:53 -0300] "GET /intro-spring/ HTTP/1.1" 200 208 http-bio-9090-exec-1 57
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:21:08:28 -0300] "GET /intro-spring/teste HTTP/1.1" 200 217 http-bio-9090-exec-3 454
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:21:08:39 -0300] "GET /intro-spring/ HTTP/1.1" 200 208 http-bio-9090-exec-4 2
+0:0:0:0:0:0:0:1 - - [23/Feb/2024:21:08:54 -0300] "GET /intro-spring/teste HTTP/1.1" 200 217 http-bio-9090-exec-5 4
